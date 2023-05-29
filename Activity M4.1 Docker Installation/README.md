@@ -35,3 +35,8 @@ You should see something like this `root@7567e5ee6089:/# `.
 ```
 
 7. You should see your message _Hello World From Ubuntu Docker Image!_ printed in your terminal. Enjoy coding!
+
+
+# Video Tutorial
+
+Watch tutorial [here](https://drive.google.com/file/d/1zgs7yyBDhWP_rdeztR1SOOsKKQk-2I3U/view?usp=sharing)
