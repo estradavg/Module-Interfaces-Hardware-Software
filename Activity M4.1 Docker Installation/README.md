@@ -34,4 +34,4 @@ You should see something like this `root@7567e5ee6089:/# `.
 # print("Hello World From Ubuntu Docker Image!")
 ```
 
-7. You should see your message **Hello World From Ubuntu Docker Image!** printed in your terminal. Enjoy coding!
+7. You should see your message _Hello World From Ubuntu Docker Image!_ printed in your terminal. Enjoy coding!
