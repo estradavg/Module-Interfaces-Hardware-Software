@@ -6,4 +6,4 @@ Activities that correspond to the module 4 of TE3003B Course, better known as In
 
 Advisor: Arturo Eduardo Cerón López
 
-Alumni: Jose Andres Estrada Virgil
+Alumn: Jose Andres Estrada Virgil
