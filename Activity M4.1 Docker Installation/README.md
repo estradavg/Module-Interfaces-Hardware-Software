@@ -4,9 +4,9 @@
 
 This guide pretends to guide the user on how to install an Ubuntu image and create a simple hello world file with Python using Docker Engine.
 
-1. Install Docker Desktop visit official site [here]([url](https://www.docker.com/products/docker-desktop/)).
+1. Install Docker Desktop visit official site [here](https://www.docker.com/products/docker-desktop/).
 
-2. Get official ubuntu image from [here]([url](https://hub.docker.com/_/ubuntu)). In my case, I used the ubuntu 22.04 veersion. For this, open your prefered terminal and type the command like shown here:
+2. Get official ubuntu image from [here](https://hub.docker.com/_/ubuntu). In my case, I used the ubuntu 22.04 veersion. For this, open your prefered terminal and type the command like shown here:
 
 `docker pull ubuntu:22.04`
 
