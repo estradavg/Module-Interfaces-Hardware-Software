@@ -4,9 +4,9 @@
 
 This guide pretends to guide the user on how to install an Ubuntu image and create a simple hello world file with Python using Docker Engine.
 
-1. Install Docker Desktop visit official site [here link] (https://www.docker.com/products/docker-desktop/)
+1. Install Docker Desktop visit official site [here]([url](https://www.docker.com/products/docker-desktop/)).
 
-2. Get official ubuntu image from [here link] (https://hub.docker.com/_/ubuntu). In my case, I used the ubuntu 22.04 veersion. For this, open your prefered terminal and type the command like shown here:
+2. Get official ubuntu image from [here]([url](https://hub.docker.com/_/ubuntu)). In my case, I used the ubuntu 22.04 veersion. For this, open your prefered terminal and type the command like shown here:
 
 `docker pull ubuntu:22.04`
 
@@ -21,7 +21,6 @@ You should see something like this `root@7567e5ee6089:/# `.
 ```
 # apt-get update
 # sudo apt-get -y install python3-pip
-
 ```
 
 5. To verify the installation, run the following command to cross check the version number:
@@ -33,6 +32,6 @@ You should see something like this `root@7567e5ee6089:/# `.
 ```
 # python
 # print("Hello World From Ubuntu Docker Image!")
-
 ```
-You should see your message **Hello World From Ubuntu Docker Image!** printed in your terminal. Enjoy coding!
+
+7. You should see your message **Hello World From Ubuntu Docker Image!** printed in your terminal. Enjoy coding!
